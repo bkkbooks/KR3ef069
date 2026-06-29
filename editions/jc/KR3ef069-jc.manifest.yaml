@@ -1,0 +1,177 @@
+canonical_identifier: bkk:krp/KR3ef069/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef069/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒用藥研究
+  identifiers:
+    krp: KR3ef069
+  tags:
+    kr-categories: KR3ef
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef069.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef069_001-jc.yaml, hash: 'sha256:be4edc7ebcb0cc594fbc34eab318a886cdb23ab637c9e55df2f65e99463de4c4'}
+  - {seq: 3, filename: KR3ef069_003-jc.yaml, hash: 'sha256:6a0b06487c6d7e39078acee51ef44ad1c87b05846d34d9e85314978703d13e1d'}
+  - {seq: 0, filename: KR3ef069_000-jc.yaml, hash: 'sha256:9635c80cbfab453e5a0d3df6afc3c7e0e363d5b2062b6432d286250e0f1e6cfa'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef069_001-jc.markers.yaml, hash: 'sha256:2971b534822a8ab8d2de8a29cf18e53fe3d8c9f83ed45e2fe0b3b8680e3ca498'}
+  - {seq: 3, role: markers, filename: assets/KR3ef069_003-jc.markers.yaml, hash: 'sha256:3def50b2a8914187e5c77d64b06dc9626b0fd01eb16a234ff4a15361bc00b8f3'}
+  - {seq: 0, role: markers, filename: assets/KR3ef069_000-jc.markers.yaml, hash: 'sha256:0c8a78a5f9bf104cc96a9400969c86d4a581aaed182d2bf43edfb41c8dd7e906'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 6505
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 1068
+  label: 總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d3
+    span:
+    - body
+    - 1068
+    - 2022
+  label: 其二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d4
+    span:
+    - body
+    - 2022
+    - 2643
+  label: 其三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d5
+    span:
+    - body
+    - 2643
+    - 3149
+  label: 其四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d6
+    span:
+    - body
+    - 3149
+    - 3511
+  label: 其五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d7
+    span:
+    - body
+    - 3511
+    - 3861
+  label: 氣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d8
+    span:
+    - body
+    - 3861
+    - 4261
+  label: 正邪
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d9
+    span:
+    - body
+    - 4261
+    - 4485
+  label: 虛實
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d10
+    span:
+    - body
+    - 4485
+    - 4667
+  label: 陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d11
+    span:
+    - body
+    - 4667
+    - 4928
+  label: 寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d12
+    span:
+    - body
+    - 4928
+    - 5628
+  label: 虛實間
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef069_jc_001-d2d13
+    span:
+    - body
+    - 5628
+    - 6505
+  label: 方位
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef069_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 7047
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef069_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 126
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:cf89e5f7e1d367d1b3fe8b6bee92eff65eced404b3bb80930cb45f6ebde07d15
